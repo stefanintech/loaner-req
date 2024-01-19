@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Number of hours before a reservation ends to send a reminder to the requester</description>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_cdltd_loaner_req.return.remindtime</name>
+        <read_roles>x_cdltd_loaner_req.admin</read_roles>
+        <suffix>return.remindtime</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-19 15:01:13</sys_created_on>
+        <sys_id>64575fceb47331107f445f42187b7c16</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_loaner_req.return.remindtime</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">464fb81d18b731107f4484645af401fe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">464fb81d18b731107f4484645af401fe</sys_scope>
+        <sys_update_name>sys_properties_64575fceb47331107f445f42187b7c16</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-19 15:01:13</sys_updated_on>
+        <type>integer</type>
+        <value>24</value>
+        <write_roles>x_cdltd_loaner_req.admin</write_roles>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=64575fceb47331107f445f42187b7c16"/>
+</record_update>
